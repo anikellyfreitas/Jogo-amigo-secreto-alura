@@ -11,3 +11,4 @@ Como Funciona
 Cadastro : Cada participante insira seu nome no sistema.
 Sorteio : O sistema sorteia aleatoriamente os amigos secretos, garantindo que ninguém tire o próprio nome.
 Entrega do presente : Após o sorteio, cada participante receberá o nome da pessoa que deverá apresentar, guardando o segredo até o momento da entrega dos presentes.
+VERCEL: amigosecretoalura-omega.vercel.app
